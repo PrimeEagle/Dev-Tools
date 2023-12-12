@@ -2,8 +2,8 @@
 A list of tools for developers
 
 #### Languages and Runtimes
-* [.NET Runtime](https://dotnet.microsoft.com/en-us/download)
-* [.NET SDK](https://dotnet.microsoft.com/en-us/download)
+* [.NET Runtime](https://dotnet.microsoft.com/en-us/download) (C#, F#, VB.NET)
+* [.NET SDK](https://dotnet.microsoft.com/en-us/download) (C#, F#, VB.NET)
 * [Go](https://go.dev/)
 * [Rust](https://www.rust-lang.org/)
 * [Python](https://www.python.org/downloads/)
