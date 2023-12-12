@@ -1,6 +1,14 @@
 # Dev Tools
 A list of tools for developers
 
+#### Languages and Runtimes
+* [.NET Runtime](https://dotnet.microsoft.com/en-us/download)
+* [.NET SDK](https://dotnet.microsoft.com/en-us/download)
+* [Go](https://go.dev/)
+* [Rust](https://www.rust-lang.org/)
+* [Python](https://www.python.org/downloads/)
+* [Java](https://www.java.com/en/download/)
+
 #### Text Editors
 * [MarkdownPad 2](http://markdownpad.com/)
 * [Notepad2](https://www.flos-freeware.ch/notepad2.html)
