@@ -28,6 +28,10 @@ A list of tools for developers
 * [Aqua](https://www.jetbrains.com/aqua/)
 * [CLion](https://www.jetbrains.com/clion/)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [DataGrip](https://www.jetbrains.com/datagrip/)
+* [DataSpell](https://www.jetbrains.com/dataspell/)
+* [PhpStorm](https://www.jetbrains.com/phpstorm/)
+* [RubyMine](https://www.jetbrains.com/ruby/)
 
 #### Package Managers
 * [Chocolatey](https://community.chocolatey.org/)
@@ -40,61 +44,65 @@ A list of tools for developers
 * [Gow](https://github.com/bmatzelle/gow)
   
 #### Terminals
-* Windows Terminal
-* Cygwin
-* ConEmu
-* Cmder
-* jq
-* starship
-* dnGrep
-* rg
-* Enso
-* Clink
+* [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US)
+* [Cygwin](https://www.cygwin.com/)
+* [ConEmu](https://conemu.github.io/)
+* [Cmder](https://cmder.app/)
+* [starship](https://starship.rs/)
+* [Enso](https://enso.org/)
+* [Clink](https://chrisant996.github.io/clink/)
   
 #### Merge and Diff Tools
-* TortoiseGitDiff
-* TortoiseDiff
-* TortoiseMerge
-* TortoiseGitMerge
-* Sublime Merge
-* KDiff
-* Winmerge
+* [TortoiseGitDiff](https://tortoisegit.org/)
+* [TortoiseIDiff](https://tortoisesvn.net/TortoiseIDiff.html)
+* [TortoiseMerge](https://tortoisesvn.net/TortoiseMerge.html)
+* [TortoiseGitMerge](https://tortoisegit.org/)
+* [Sublime Merge](https://www.sublimemerge.com/)
+* [KDiff3](https://kdiff3.sourceforge.net/)
+* [Winmerge](https://winmerge.org/)
   
 #### Version Control Tools
-* TortoiseGit
-* TortoiseGitBlame
-* TortoiseSVN Project Monitor
-* GitKraken
-* TortoiseSVN
-* TortoiseSVN Repository Browser
-* GitHub Desktop
+* [TortoiseGit](https://tortoisegit.org/)
+* [TortoiseGitBlame](https://tortoisegit.org/)
+* [TortoiseSVN Project Monitor](https://tortoisesvn.net)
+* [GitKraken](https://www.gitkraken.com/)
+* [TortoiseSVN](https://tortoisesvn.net)
+* [TortoiseSVN Repository Browser](https://tortoisesvn.net)
+* [GitHub Desktop](https://desktop.github.com/)
+* [GitHub CLI](https://cli.github.com/)
+* [Git CLI](https://git-scm.com/downloads)
   
 #### Database Management
-* SQL Server Management Studio
-* DB Browser (SQLite)
+* [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+* [DB Browser (SQLite)](https://sqlitebrowser.org/)
+* [Query Express](https://www.albahari.com/queryexpress.aspx)
   
 #### Note Taking Tools
-* Obsidian
-* Logseq
-* Joplin
+* [Obsidian](https://obsidian.md/)
+* [Logseq](https://logseq.com/)
+* [Joplin](https://joplinapp.org/)
 * [Dendron](https://www.dendron.so/)
 
 #### Networking
-* Fiddler
-* Wireshark
-* Postman
+* [Fiddler](https://www.telerik.com/fiddler)
+* [Wireshark](https://www.wireshark.org/)
+* [Postman](https://www.postman.com/)
   
 #### Miscellaneous
-* Greenfish Icon Editor
-* NimbleSET
-* Directory Opus
-* Pencil
-* Balsamiq Wireframes
-* CMake
-* CopyQ
-* ShareX
-* CodeTrack
-* Ditto
-* Q-Dir
-* WizTree
-* Docker Desktop
+* [Greenfish Icon Editor](http://greenfishsoftware.org/gfie.php#apage)
+* [NimbleSET](https://nimbletext.com/set/about)
+* [Directory Opus](https://www.gpsoft.com.au/)
+* [Pencil](https://pencil.evolus.vn/)
+* [Balsamiq Wireframes](https://balsamiq.com/wireframes/)
+* [CMake](https://cmake.org/)
+* [CopyQ](https://hluk.github.io/CopyQ/)
+* [ShareX](https://getsharex.com/)
+* [CodeTrack](https://www.getcodetrack.com/)
+* [Ditto](https://ditto-cp.sourceforge.io/)
+* [Q-Dir](http://www.q-dir.com/)
+* [WizTree](https://diskanalyzer.com/)
+* [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+* [rg](https://github.com/BurntSushi/ripgrep)
+* [dnGrep](https://dngrep.github.io/)
+* [ReSharper](https://www.jetbrains.com/resharper/)
+* [jq](https://github.com/gmmorris/jg)
