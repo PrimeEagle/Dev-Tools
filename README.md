@@ -50,31 +50,31 @@ A list of tools for developers
 
 #### IDEs
 * [Aqua](https://www.jetbrains.com/aqua/) - An Integrated Development Environment for Aqua programming language.
+* [Arduino IDE](https://www.arduino.cc/en/software) - An IDE for programming Arduino boards.
 * [ChainShot Builder](https://github.com/ChainShot/Builder) - An IDE for creating blockchain applications.
 * [CLion](https://www.jetbrains.com/clion/) - A cross-platform C/C++ IDE.
 * [CLion Nova](https://www.jetbrains.com/help/clion/2023.3/clion-nova-introduction.html) - A new version of CLion with enhanced features.
+* [Code::Blocks](https://www.codeblocks.org/) - An open-source, cross-platform C, C++, and Fortran IDE.
 * [DataGrip](https://www.jetbrains.com/datagrip/) - A database IDE.
 * [DataSpell](https://www.jetbrains.com/dataspell/) - A data science and machine learning IDE.
+* [Eclipse](https://eclipseide.org/) - An open-source integrated development environment.
 * [Fleet](https://www.jetbrains.com/fleet/) - An Integrated Development Environment for Fleet programming language.
+* [Geany](https://www.geany.org/) - A small and lightweight Integrated Development Environment.
 * [GoLand](https://www.jetbrains.com/go/) - An IDE for Go programming language.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - An integrated development environment for Java.
 * [LINQPad 7](https://www.linqpad.net/) - A .NET code scratchpad and IDE.
 * [MPS](https://www.jetbrains.com/mps/) - A language workbench for domain-specific languages.
+* [NetBeans](https://netbeans.apache.org/front/main/) - An IDE for Java, HTML5, PHP, C/C++, and more.
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - An Integrated Development Environment for PHP.
 * [PyCharm](https://www.jetbrains.com/pycharm/) - An Integrated Development Environment for Python.
 * [Rider](https://www.jetbrains.com/rider/) - A cross-platform .NET IDE.
 * [RustRover](https://www.jetbrains.com/rust/) - An Integrated Development Environment for Rust programming language.
+* [Thonny](https://thonny.org/) - A Python IDE for beginners.
 * [Visual Studio](https://visualstudio.microsoft.com/) - A powerful IDE for Windows development.
 * [Visual Studio Code](https://code.visualstudio.com/) - A free, open-source code editor.
 * [VSCodium](https://vscodium.com/) - A community-driven, free version of Visual Studio Code.
 * [WebStorm](https://www.jetbrains.com/webstorm/) - An Integrated Development Environment for web development.
 * [Writerside](https://www.jetbrains.com/writerside/) - An Integrated Development Environment for Writerside programming language.
-* [NetBeans](https://netbeans.apache.org/front/main/) - An IDE for Java, HTML5, PHP, C/C++, and more.
-* [Arduino IDE](https://www.arduino.cc/en/software) - An IDE for programming Arduino boards.
-* [Eclipse](https://eclipseide.org/) - An open-source integrated development environment.
-* [Geany](https://www.geany.org/) - A small and lightweight Integrated Development Environment.
-* [Thonny](https://thonny.org/) - A Python IDE for beginners.
-* [Code::Blocks](https://www.codeblocks.org/) - An open-source, cross-platform C, C++, and Fortran IDE.
 
 #### Package Managers
 * [cargo](https://github.com/rust-lang/cargo) - The package manager for Rust.
@@ -91,8 +91,8 @@ A list of tools for developers
 * [ConEmu](https://conemu.github.io/) - A terminal emulator for Windows.
 * [Cygwin](https://www.cygwin.com/) - A collection of GNU and Open Source tools that provide functionality similar to a Linux distribution on Windows.
 * [Enso](https://enso.org/) - A command-line shell for Windows.
-* [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US) - A modern terminal application for Windows.
 * [starship](https://starship.rs/) - A minimal, fast, and customizable prompt for any shell.
+* [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US) - A modern terminal application for Windows.
 
 #### Merge and Diff Tools
 * [KDiff3](https://kdiff3.sourceforge.net/) - A file and directory diff tool.
