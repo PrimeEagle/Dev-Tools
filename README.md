@@ -11,6 +11,7 @@ A list of tools for developers
 * [Elixir](https://elixir-lang.org/) - A dynamic, functional language designed for building scalable and maintainable applications.
 * [Elm](https://elm-lang.org/) - A functional programming language for front-end web development.
 * [Erlang](https://www.erlang.org/) - A programming language designed for concurrent and distributed systems.
+* [GCC](https://gcc.gnu.org/) - Classic C, C++, and Objective-C compiler for many platforms.
 * [Go](https://go.dev/) - An open-source programming language that makes it easy to build efficient and reliable software.
 * [Haskell](https://www.haskell.org/) - A functional programming language with a strong static type system.
 * [Java](https://www.java.com/en/download/) - A popular, platform-independent programming language.
