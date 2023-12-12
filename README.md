@@ -32,6 +32,17 @@ A list of tools for developers
 * [DataSpell](https://www.jetbrains.com/dataspell/)
 * [PhpStorm](https://www.jetbrains.com/phpstorm/)
 * [RubyMine](https://www.jetbrains.com/ruby/)
+* [MPS](https://www.jetbrains.com/mps/)
+* [CLion Nova](https://www.jetbrains.com/help/clion/2023.3/clion-nova-introduction.html)
+* [ChainShot Builder](https://github.com/ChainShot/Builder)
+* [Windows PowerShell ISE](https://learn.microsoft.com/en-us/powershell/scripting/windows-powershell/ise/introducing-the-windows-powershell-ise?view=powershell-7.4)
+* [Pharo](https://pharo.org/)
+* [NetBeans](https://netbeans.apache.org/front/main/)
+* [Arduino IDE](https://www.arduino.cc/en/software)
+* [Eclipse](https://eclipseide.org/)
+* [Geany](https://www.geany.org/)
+* [Thonny](https://thonny.org/)
+* [Code::Blocks](https://www.codeblocks.org/)
 
 #### Package Managers
 * [Chocolatey](https://community.chocolatey.org/)
