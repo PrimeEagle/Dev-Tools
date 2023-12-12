@@ -106,3 +106,4 @@ A list of tools for developers
 * [dnGrep](https://dngrep.github.io/)
 * [ReSharper](https://www.jetbrains.com/resharper/)
 * [jq](https://github.com/gmmorris/jg)
+* [Stardock Fences](https://www.stardock.com/products/fences/)
