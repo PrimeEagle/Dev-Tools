@@ -1,57 +1,21 @@
-# Dev-Tools
+# Dev Tools
 A list of tools for developers
 
-* Windows Terminal
-* Pencil
-* Choco
-* iXedit
-* Greenfish Icon Editor
-* Cygwin
-* TortoiseGit
-* TortoiseGitDiff
-* TortoiseDiff
-* TortoiseMerge
-* TortoiseGitMerge
-* TortoiseGitBlame
-* TortoiseSVN Project Monitor
-* Notepad2
+#### Text Editors
 * MarkdownPad 2
-* Gow
-* NimbleSET
-* NimbleText
-* Enso
-* starship
-* ConEmu
-* Cmder
-* Directory Opus
-* LINQPad 7
-* LINQPad Run 7
-* Balsamiq Wireframes
-* jq
-* CMake
-* CopyQ
-* ShareX
-* GitKraken
-* Postman
-* Atom
-* CodeTrack
-* Wireshark
+* Notepad2
+* Notepad++
 * Markdown Monster
-* Ditto
-* Q-Dir
-* WizTree
-* dnGrep
-* rg
-* Sublime Merge
-* Docker Desktop
-* Obsidian
-* Clink
-* Logseq
-* Joplin
-* SQL Server Management Studio
-* DB Browser (SQLite)
 * Sublime Text
 * Neovim Qt
+* Pencil
+* iXedit
+* NimbleText
+* Atom
+  
+#### IDEs
+* LINQPad 7
+* LINQPad Run 7
 * Visual Studio
 * Visual Studio Code
 * Fleet
@@ -62,9 +26,72 @@ A list of tools for developers
 * Writerside
 * DataGrip
 * PyCharm
+
+#### Package Managers
+* Choco
+* pip
+* py
+* winget
+* npm
+* yarn
+* cargo
+* go
+* Gow
+  
+#### Terminals
+* Windows Terminal
+* Cygwin
+* ConEmu
+* Cmder
+* jq
+* starship
+* dnGrep
+* rg
+* Enso
+* Clink
+  
+#### Merge and Diff Tools
+* TortoiseGitDiff
+* TortoiseDiff
+* TortoiseMerge
+* TortoiseGitMerge
+* Sublime Merge
+* KDiff
+* Winmerge
+  
+#### Version Control Tools
+* TortoiseGit
+* TortoiseGitBlame
+* TortoiseSVN Project Monitor
+* GitKraken
 * TortoiseSVN
 * TortoiseSVN Repository Browser
 * GitHub Desktop
-* KDiff
-* Winmerge
+  
+#### Database Management
+* SQL Server Management Studio
+* DB Browser (SQLite)
+  
+#### Note Taking Tools
+* Obsidian
+* Logseq
+* Joplin
+
+#### Networking
 * Fiddler
+* Wireshark
+* Postman
+  
+#### Miscellaneous
+* Greenfish Icon Editor
+* NimbleSET
+* Directory Opus
+* Balsamiq Wireframes
+* CMake
+* CopyQ
+* ShareX
+* CodeTrack
+* Ditto
+* Q-Dir
+* WizTree
+* Docker Desktop
