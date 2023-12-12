@@ -77,6 +77,7 @@ A list of tools for developers
 * Obsidian
 * Logseq
 * Joplin
+* [Dendron](https://www.dendron.so/)
 
 #### Networking
 * Fiddler
