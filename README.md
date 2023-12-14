@@ -20,14 +20,15 @@ A list of tools for developers
 #### Web Browsers
 * [Google Chrome]() -
 * [Microsoft Edge]() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
+* [Firefox]() -
+* [Opera]() -
+* [Safari]() -
+* [Brave]() -
+* [Tor]() -
+* [Vivaldi]() -
+* [Internet Explorer]() -
+* [DuckDuckGo]() -
+* [Epic]() -
   
 #### Languages and Runtimes
 * [.NET Runtime](https://dotnet.microsoft.com/en-us/download) (C#, F#, VB.NET) - .NET runtime environment for C#, F#, and VB.NET.
