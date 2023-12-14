@@ -4,6 +4,31 @@
 
 A list of tools for developers
 
+#### Operating Systems
+* [Windows]() -
+* [Arduino]() -
+* [Raspberry Pi]() -
+* [Ubuntu Linux]() -
+* [Fedora Linux]() -
+* [NixOS Linux]() -
+* [antiX Linux]() -
+* [Arch Linux]() -
+* [Linux Mint]() -
+* [Pop!_OS Linux]() -
+* [FreeBSD]() -
+  
+#### Web Browsers
+* [Google Chrome]() -
+* [Microsoft Edge]() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+  
 #### Languages and Runtimes
 * [.NET Runtime](https://dotnet.microsoft.com/en-us/download) (C#, F#, VB.NET) - .NET runtime environment for C#, F#, and VB.NET.
 * [.NET SDK](https://dotnet.microsoft.com/en-us/download) (C#, F#, VB.NET) - .NET Software Development Kit for C#, F#, and VB.NET.
@@ -75,7 +100,12 @@ A list of tools for developers
 * [VSCodium](https://vscodium.com/) - A community-driven, free version of Visual Studio Code.
 * [WebStorm](https://www.jetbrains.com/webstorm/) - An Integrated Development Environment for web development.
 * [Writerside](https://www.jetbrains.com/writerside/) - An Integrated Development Environment for Writerside programming language.
-
+* [MPS]() -
+* []() -
+* []() -
+* []() -
+* []() -
+* 
 #### Package Managers
 * [cargo](https://github.com/rust-lang/cargo) - The package manager for Rust.
 * [chocolatey](https://community.chocolatey.org/) - A package manager for Windows.
@@ -93,7 +123,12 @@ A list of tools for developers
 * [Enso](https://enso.org/) - A command-line shell for Windows.
 * [starship](https://starship.rs/) - A minimal, fast, and customizable prompt for any shell.
 * [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US) - A modern terminal application for Windows.
-
+* [PowerShell]() -
+* []() -
+* []() -
+* []() -
+* []() -
+  
 #### Merge and Diff Tools
 * [KDiff3](https://kdiff3.sourceforge.net/) - A file and directory diff tool.
 * [Sublime Merge](https://www.sublimemerge.com/) - A Git client with advanced features.
@@ -111,7 +146,12 @@ A list of tools for developers
 * [TortoiseGitBlame](https://tortoisegit.org/) - A Git blame viewer.
 * [TortoiseSVN](https://tortoisesvn.net) - A Subversion client for Windows.
 * [TortoiseSVN Project Monitor](https://tortoisesvn.net) - A project monitoring tool for Subversion.
-
+* [Git LFS]() -
+* []() -
+* []() -
+* []() -
+* []() -
+  
 #### Database Management
 * [DB Browser (SQLite)](https://sqlitebrowser.org/) - A visual tool to manage SQLite databases.
 * [Query Express](https://www.albahari.com/queryexpress.aspx) - A tool for querying SQL Server and SQLite databases.
@@ -127,7 +167,39 @@ A list of tools for developers
 * [Fiddler](https://www.telerik.com/fiddler) - A web debugging proxy.
 * [Postman](https://www.postman.com/) - A collaboration platform for API development.
 * [Wireshark](https://www.wireshark.org/) - A network protocol analyzer.
+* [Npcap]() -
+* []() -
+* []() -
+* []() -
+* []() -
 
+#### Frameworks
+* [Node.js]() - 
+* [Angular]() -
+* [React]() -
+* [Vue]() -
+* [Avalonia]() -
+* [Express.js]() -
+* [jQuery]() -
+* [WiX]() -
+* [Flutter]() -
+* [Electron]() -
+* [Django]() -
+* [Fiber]() -
+* [ML.NET]() -
+* [.NET]() -
+* [Moq]() -
+* [NUnit]() -
+* [NumPy]() -
+* [TensorFlow]() -
+* [Ninject]() -
+* [ANTLR]() -
+* [PyQt]() -
+* [Tkinter]() -
+* [ProjectQ]() -
+* []() -
+* []() -
+  
 #### Miscellaneous
 * [Balsamiq Wireframes](https://balsamiq.com/wireframes/) - A wireframing tool to create low-fidelity sketches.
 * [CMake](https://cmake.org/) - An open-source, cross-platform build system.
@@ -146,3 +218,38 @@ A list of tools for developers
 * [Stardock Fences](https://www.stardock.com/products/fences/) - A tool to organize desktop icons.
 * [WizTree](https://diskanalyzer.com/) - A disk space analyzer for Windows.
 * [Rufus](https://rufus.ie/en/) - Tool for making bootable USB images from ISO files.
+* [Grammarly]() -
+* [Spotify]() -
+* [Mullvad VPN]() -
+* [OpenVPN]() -
+* [7-Zip]() -
+* [Blender]() -
+* [TeamViewer]() -
+* [VLC Media Player]() -
+* [Zoom]() -
+* [TeraCopy]() -
+* [Remote Desktop]() -
+* [dotMemory]() -
+* [dotPeek]() -
+* [dotTrace]() -
+* [IIS]() -
+* [ReSharper]() -
+* [NVM]() -
+* [Adobe Acrobat Reader]() -
+* [Unity]() -
+* [Unreal]() -
+* [FileZilla]() -
+* [Adobe Photoshop]() -
+* [Adobe Premiere]() -
+* [Adobe AfterEffects]() -
+* [Adobe InDesign]() -
+* [Adobe Illustrator]() -
+* [VEGAS Pro]() -
+* [Nerd Fonts]() -
+* [LockHunter]() -
+* [Discord]() -
+* [Teams]() -
+* [Slack]() -
+* [Jupyter Notebook]() -
+* []() -
+* []() -
