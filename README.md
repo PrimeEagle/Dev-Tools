@@ -102,11 +102,7 @@ A list of tools for developers
 * [WebStorm](https://www.jetbrains.com/webstorm/) - An Integrated Development Environment for web development.
 * [Writerside](https://www.jetbrains.com/writerside/) - An Integrated Development Environment for Writerside programming language.
 * [MPS]() -
-* []() -
-* []() -
-* []() -
-* []() -
-* 
+  
 #### Package Managers
 * [cargo](https://github.com/rust-lang/cargo) - The package manager for Rust.
 * [chocolatey](https://community.chocolatey.org/) - A package manager for Windows.
@@ -125,10 +121,6 @@ A list of tools for developers
 * [starship](https://starship.rs/) - A minimal, fast, and customizable prompt for any shell.
 * [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US) - A modern terminal application for Windows.
 * [PowerShell]() -
-* []() -
-* []() -
-* []() -
-* []() -
   
 #### Merge and Diff Tools
 * [KDiff3](https://kdiff3.sourceforge.net/) - A file and directory diff tool.
@@ -148,10 +140,6 @@ A list of tools for developers
 * [TortoiseSVN](https://tortoisesvn.net) - A Subversion client for Windows.
 * [TortoiseSVN Project Monitor](https://tortoisesvn.net) - A project monitoring tool for Subversion.
 * [Git LFS]() -
-* []() -
-* []() -
-* []() -
-* []() -
   
 #### Database Management
 * [DB Browser (SQLite)](https://sqlitebrowser.org/) - A visual tool to manage SQLite databases.
@@ -169,10 +157,6 @@ A list of tools for developers
 * [Postman](https://www.postman.com/) - A collaboration platform for API development.
 * [Wireshark](https://www.wireshark.org/) - A network protocol analyzer.
 * [Npcap]() -
-* []() -
-* []() -
-* []() -
-* []() -
 
 #### Frameworks
 * [Node.js]() - 
@@ -198,8 +182,6 @@ A list of tools for developers
 * [PyQt]() -
 * [Tkinter]() -
 * [ProjectQ]() -
-* []() -
-* []() -
   
 #### Miscellaneous
 * [Balsamiq Wireframes](https://balsamiq.com/wireframes/) - A wireframing tool to create low-fidelity sketches.
@@ -237,6 +219,7 @@ A list of tools for developers
 * [ReSharper]() -
 * [NVM]() -
 * [Adobe Acrobat Reader]() -
+* [Adobe Acrobat]() -
 * [Unity]() -
 * [Unreal]() -
 * [FileZilla]() -
@@ -252,5 +235,3 @@ A list of tools for developers
 * [Teams]() -
 * [Slack]() -
 * [Jupyter Notebook]() -
-* []() -
-* []() -
