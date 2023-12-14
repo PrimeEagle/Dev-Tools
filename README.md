@@ -237,3 +237,4 @@ A list of tools for developers
 * [Jupyter Notebook]() -
 * [GIMP]() -
 * [OBS Studio]() -
+* [GoDot]() -
