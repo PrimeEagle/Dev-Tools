@@ -145,3 +145,4 @@ A list of tools for developers
 * [ShareX](https://getsharex.com/) - A screen capture and file sharing tool.
 * [Stardock Fences](https://www.stardock.com/products/fences/) - A tool to organize desktop icons.
 * [WizTree](https://diskanalyzer.com/) - A disk space analyzer for Windows.
+* [Rufus](https://rufus.ie/en/) - Tool for making bootable USB images from ISO files.
