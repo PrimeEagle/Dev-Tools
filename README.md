@@ -235,3 +235,5 @@ A list of tools for developers
 * [Teams]() -
 * [Slack]() -
 * [Jupyter Notebook]() -
+* [GIMP]() -
+* [OBS Studio]() -
