@@ -182,9 +182,84 @@ A list of tools for developers
 * [PyQt]() -
 * [Tkinter]() -
 * [ProjectQ]() -
-  
-#### Miscellaneous
+* [Unity]() -
+* [Unreal]() -
+* [GoDot]() -
+
+#### Design
 * [Balsamiq Wireframes](https://balsamiq.com/wireframes/) - A wireframing tool to create low-fidelity sketches.
+* [Pencil](https://pencil.evolus.vn/) - A prototyping and diagramming tool.
+* [Blender]() -
+* [Adobe Photoshop]() -
+* [Adobe Premiere]() -
+* [Adobe AfterEffects]() -
+* [Adobe InDesign]() -
+* [Adobe Illustrator]() -
+* [VEGAS Pro]() -
+* [GIMP]() -
+* [OBS Studio]() -
+* [Nerd Fonts]() -
+  
+#### Visual Studio Extensions
+* [ReSharper]() -
+* [Avalonia]() -
+* [Captain Docker]() -
+* [CodeMaid]() -
+* [EF Core Power Tools]() -
+* [Git Extensions]() -
+* [GitHub Copilot]() -
+* [HeatWave]() -
+* [ML.NET Model Builder]() -
+* [PowerShel Tools]() -
+* [PostSharp]() -
+* [rust-analyzer]() -
+* [SQLite and SQL Server Compact Toolbox]() -
+* [VisualSVN]() -
+* [WiX]() -
+* [XAML Styler]() -
+
+#### Visual Studio Code Extensions
+* [WSL]() -
+* [C#]() -
+* [Dart]() -
+* [PyLance]() -
+* [creates]() -
+* [GitHub Copilot]() -
+* [GitLens]() -
+* [Go Nightly]() -
+* [JavaScript and TypeScript Nightly]() -
+* [Python]() -
+* [rust-analyzer]() -
+* [Avalonia for VSCode]() -
+* [C/C++]() -
+* [Django]() -
+* [Docker]() -
+* [Docker Explorer]() -
+* [ED Extension Pack: Adobe ExtendScript]() -
+* [EmmyLua]() -
+* [Go]() -
+* [Go Doc]() -
+* [IntelliCode]() -
+* [Lua]() -
+* [Luea Debug]() -
+* [Path Intellisense]() -
+* [PowerShell]() -
+* [PowerShell Extension Pack]() -
+* [Prettier]() -
+* [Python Extension Pack]() -
+* [ResX Editor]() -
+* [rust]() -
+* [SVN]() -
+* [XML Formatter]() -
+* [YAML]() -
+  
+#### Social
+* [Discord]() -
+* [Teams]() -
+* [Slack]() -
+* [Zoom]() -
+
+#### Tools
 * [CMake](https://cmake.org/) - An open-source, cross-platform build system.
 * [CodeTrack](https://www.getcodetrack.com/) - A tool for tracking code changes.
 * [CopyQ](https://hluk.github.io/CopyQ/) - A clipboard manager with advanced features.
@@ -194,7 +269,6 @@ A list of tools for developers
 * [Greenfish Icon Editor](http://greenfishsoftware.org/gfie.php#apage) - A free icon, cursor, and animation editor.
 * [jq](https://github.com/gmmorris/jg) - A command-line JSON processor.
 * [NimbleSET](https://nimbletext.com/set/about) - A text manipulation tool.
-* [Pencil](https://pencil.evolus.vn/) - A prototyping and diagramming tool.
 * [Q-Dir](http://www.q-dir.com/) - A multi-pane file explorer for Windows.
 * [rg](https://github.com/BurntSushi/ripgrep) - A command-line search tool.
 * [ShareX](https://getsharex.com/) - A screen capture and file sharing tool.
@@ -206,35 +280,17 @@ A list of tools for developers
 * [Mullvad VPN]() -
 * [OpenVPN]() -
 * [7-Zip]() -
-* [Blender]() -
 * [TeamViewer]() -
 * [VLC Media Player]() -
-* [Zoom]() -
 * [TeraCopy]() -
 * [Remote Desktop]() -
 * [dotMemory]() -
 * [dotPeek]() -
 * [dotTrace]() -
-* [IIS]() -
-* [ReSharper]() -
 * [NVM]() -
 * [Adobe Acrobat Reader]() -
 * [Adobe Acrobat]() -
-* [Unity]() -
-* [Unreal]() -
 * [FileZilla]() -
-* [Adobe Photoshop]() -
-* [Adobe Premiere]() -
-* [Adobe AfterEffects]() -
-* [Adobe InDesign]() -
-* [Adobe Illustrator]() -
-* [VEGAS Pro]() -
-* [Nerd Fonts]() -
 * [LockHunter]() -
-* [Discord]() -
-* [Teams]() -
-* [Slack]() -
 * [Jupyter Notebook]() -
-* [GIMP]() -
-* [OBS Studio]() -
-* [GoDot]() -
+* [eXtreme Directory](https://github.com/PrimeEagle/PowerShell-eXtreme-Directory/releases/) - PowerShell scripts to make working with directories in a console easier and more efficient.
