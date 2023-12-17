@@ -2,34 +2,34 @@
 
 <img src="https://github.com/PrimeEagle/Dev-Tools/blob/main/dev.png?raw=true" width="250" />
 
-A list of tools for developers
+A list of tools for developers.
 
 #### Operating Systems
-* [Windows]() -
-* [Arduino]() -
-* [Raspberry Pi]() -
-* [Ubuntu Linux]() -
-* [Fedora Linux]() -
-* [NixOS Linux]() -
-* [antiX Linux]() -
-* [Arch Linux]() -
-* [Linux Mint]() -
-* [Pop!_OS Linux]() -
-* [FreeBSD]() -
-  
+* [antiX Linux](https://antixlinux.com/) - A lightweight, systemd-free Linux distribution.
+* [Arch Linux](https://archlinux.org/) - A rolling-release Linux distribution.
+* [Arduino](https://www.arduino.cc/en/software) - An open-source electronics platform.
+* [Fedora Linux](https://getfedora.org/) - A community-driven Linux distribution.
+* [FreeBSD](https://www.freebsd.org/) - An open-source operating system for various platforms.
+* [Linux Mint](https://linuxmint.com/) - A user-friendly Linux distribution.
+* [NixOS Linux](https://nixos.org/) - A declarative Linux distribution.
+* [Pop!_OS Linux](https://pop.system76.com/) - A Linux distribution for creators.
+* [Raspberry Pi](https://www.raspberrypi.org/software/) - A series of small single-board computers.
+* [Ubuntu Linux](https://ubuntu.com/download) - A popular Linux distribution.
+* [Windows](https://www.microsoft.com/en-us/software-download/windows10) - Microsoft's operating system.
+
 #### Web Browsers
-* [Google Chrome]() -
-* [Microsoft Edge]() -
-* [Firefox]() -
-* [Opera]() -
-* [Safari]() -
-* [Brave]() -
-* [Tor]() -
-* [Vivaldi]() -
-* [Internet Explorer]() -
-* [DuckDuckGo]() -
-* [Epic]() -
-  
+* [Brave](https://brave.com/) - A privacy-focused web browser.
+* [DuckDuckGo](https://duckduckgo.com/app) - A privacy-focused search engine.
+* [Epic](https://www.epicbrowser.com/) - A privacy-focused web browser.
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A widely-used web browser.
+* [Google Chrome](https://www.google.com/chrome/) - A popular web browser.
+* [Internet Explorer](https://www.microsoft.com/en-us/download/internet-explorer.aspx) - Microsoft's legacy web browser.
+* [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Microsoft's modern web browser.
+* [Opera](https://www.opera.com/) - A web browser with built-in features.
+* [Safari](https://support.apple.com/en-us/HT204416) - Apple's web browser.
+* [Tor](https://www.torproject.org/download/) - A privacy-focused web browser.
+* [Vivaldi](https://vivaldi.com/) - A highly customizable web browser.
+
 #### Languages and Runtimes
 * [.NET Runtime](https://dotnet.microsoft.com/en-us/download) (C#, F#, VB.NET) - .NET runtime environment for C#, F#, and VB.NET.
 * [.NET SDK](https://dotnet.microsoft.com/en-us/download) (C#, F#, VB.NET) - .NET Software Development Kit for C#, F#, and VB.NET.
@@ -101,8 +101,8 @@ A list of tools for developers
 * [VSCodium](https://vscodium.com/) - A community-driven, free version of Visual Studio Code.
 * [WebStorm](https://www.jetbrains.com/webstorm/) - An Integrated Development Environment for web development.
 * [Writerside](https://www.jetbrains.com/writerside/) - An Integrated Development Environment for Writerside programming language.
-* [MPS]() -
-  
+* [MPS](https://www.jetbrains.com/mps/) - A language workbench for domain-specific languages.
+
 #### Package Managers
 * [cargo](https://github.com/rust-lang/cargo) - The package manager for Rust.
 * [chocolatey](https://community.chocolatey.org/) - A package manager for Windows.
@@ -118,10 +118,8 @@ A list of tools for developers
 * [ConEmu](https://conemu.github.io/) - A terminal emulator for Windows.
 * [Cygwin](https://www.cygwin.com/) - A collection of GNU and Open Source tools that provide functionality similar to a Linux distribution on Windows.
 * [Enso](https://enso.org/) - A command-line shell for Windows.
-* [starship](https://starship.rs/) - A minimal, fast, and customizable prompt for any shell.
-* [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-US&gl=US) - A modern terminal application for Windows.
-* [PowerShell]() -
-  
+* [PowerShell](https://docs.microsoft.com/en-us/powershell/) - A task automation and configuration management framework.
+
 #### Merge and Diff Tools
 * [KDiff3](https://kdiff3.sourceforge.net/) - A file and directory diff tool.
 * [Sublime Merge](https://www.sublimemerge.com/) - A Git client with advanced features.
@@ -139,8 +137,8 @@ A list of tools for developers
 * [TortoiseGitBlame](https://tortoisegit.org/) - A Git blame viewer.
 * [TortoiseSVN](https://tortoisesvn.net) - A Subversion client for Windows.
 * [TortoiseSVN Project Monitor](https://tortoisesvn.net) - A project monitoring tool for Subversion.
-* [Git LFS]() -
-  
+* [Git LFS](https://git-lfs.github.com/) - Git Large File Storage.
+
 #### Database Management
 * [DB Browser (SQLite)](https://sqlitebrowser.org/) - A visual tool to manage SQLite databases.
 * [Query Express](https://www.albahari.com/queryexpress.aspx) - A tool for querying SQL Server and SQLite databases.
@@ -152,145 +150,141 @@ A list of tools for developers
 * [Logseq](https://logseq.com/) - A privacy-first, local-first knowledge platform.
 * [Obsidian](https://obsidian.md/) - A knowledge base and note-taking app.
 
-#### Networking
+#### Networking Tools
 * [Fiddler](https://www.telerik.com/fiddler) - A web debugging proxy.
 * [Postman](https://www.postman.com/) - A collaboration platform for API development.
 * [Wireshark](https://www.wireshark.org/) - A network protocol analyzer.
-* [Npcap]() -
+* [Npcap](https://nmap.org/npcap/) - A packet capture library for Windows.
 
 #### Frameworks
-* [Node.js]() - 
-* [Angular]() -
-* [React]() -
-* [Vue]() -
-* [Avalonia]() -
-* [Express.js]() -
-* [jQuery]() -
-* [WiX]() -
-* [Flutter]() -
-* [Electron]() -
-* [Django]() -
-* [Fiber]() -
-* [ML.NET]() -
-* [.NET]() -
-* [Moq]() -
-* [NUnit]() -
-* [NumPy]() -
-* [TensorFlow]() -
-* [Ninject]() -
-* [ANTLR]() -
-* [PyQt]() -
-* [Tkinter]() -
-* [ProjectQ]() -
-* [Unity]() -
-* [Unreal]() -
-* [GoDot]() -
+* [Node.js](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [Angular](https://angular.io/) - A TypeScript-based open-source web application framework.
+* [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
+* [Vue.js](https://vuejs.org/) - A progressive JavaScript framework for building web interfaces.
+* [Avalonia](https://avaloniaui.net/) - A cross-platform XAML-based UI framework.
+* [Express.js](https://expressjs.com/) - A web application framework for Node.js.
+* [jQuery](https://jquery.com/) - A fast, small, and feature-rich JavaScript library.
+* [WiX](https://wixtoolset.org/) - A set of tools for building Windows Installer packages.
+* [Flutter](https://flutter.dev/) - Google's UI toolkit for building natively compiled applications.
+* [Electron](https://www.electronjs.org/) - A framework for building cross-platform desktop apps.
+* [Django](https://www.djangoproject.com/) - A high-level Python web framework.
+* [Fiber](https://gofiber.io/) - A fast HTTP web framework for Go.
+* [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - An open-source machine learning framework for .NET.
+* [.NET](https://dotnet.microsoft.com/) - A free, open-source, and cross-platform framework for building modern cloud applications.
+* [Moq](https://github.com/Moq/moq4) - A mocking library for .NET.
+* [NUnit](https://nunit.org/) - A unit-testing framework for .NET.
+* [NumPy](https://numpy.org/) - A fundamental package for scientific computing with Python.
+* [TensorFlow](https://www.tensorflow.org/) - An open-source machine learning framework.
+* [Ninject](https://www.ninject.org/) - A lightweight dependency injection framework for .NET.
+* [ANTLR](https://www.antlr.org/) - A powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+* [PyQt](https://riverbankcomputing.com/software/pyqt/) - A set of Python bindings for Qt libraries.
+* [Tkinter](https://docs.python.org/3/library/tkinter.html) - The standard Python interface to the Tk GUI toolkit.
+* [ProjectQ](https://projectq.ch/) - An open-source software framework for quantum computing.
+* [Unity](https://unity.com/) - A cross-platform game engine developed by Unity Technologies.
+* [Unreal Engine](https://www.unrealengine.com/) - A powerful game engine developed by Epic Games.
+* [Godot](https://godotengine.org/) - An open-source game engine for creating 2D and 3D games.
 
 #### Design
 * [Balsamiq Wireframes](https://balsamiq.com/wireframes/) - A wireframing tool to create low-fidelity sketches.
 * [Pencil](https://pencil.evolus.vn/) - A prototyping and diagramming tool.
-* [Blender]() -
-* [Adobe Photoshop]() -
-* [Adobe Premiere]() -
-* [Adobe AfterEffects]() -
-* [Adobe InDesign]() -
-* [Adobe Illustrator]() -
-* [VEGAS Pro]() -
-* [GIMP]() -
-* [OBS Studio]() -
-* [Nerd Fonts]() -
-  
+* [Blender](https://www.blender.org/) - An open-source 3D computer graphics software.
+* [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - A popular image editing software.
+* [Adobe Premiere](https://www.adobe.com/products/premiere.html) - A video editing software.
+* [Adobe AfterEffects](https://www.adobe.com/products/aftereffects.html) - A visual effects and motion graphics software.
+* [Adobe InDesign](https://www.adobe.com/products/indesign.html) - A desktop publishing software.
+* [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - A vector graphics editor.
+* [VEGAS Pro](https://www.vegascreativesoftware.com/) - A professional video editing software.
+* [GIMP](https://www.gimp.org/) - A free and open-source raster graphics editor.
+* [OBS Studio](https://obsproject.com/) - An open-source software for live streaming and recording.
+
 #### Visual Studio Extensions
-* [ReSharper]() -
-* [Avalonia]() -
-* [Captain Docker]() -
-* [CodeMaid]() -
-* [EF Core Power Tools]() -
-* [Git Extensions]() -
-* [GitHub Copilot]() -
-* [HeatWave]() -
-* [ML.NET Model Builder]() -
-* [PowerShel Tools]() -
-* [PostSharp]() -
-* [rust-analyzer]() -
-* [SQLite and SQL Server Compact Toolbox]() -
-* [VisualSVN]() -
-* [WiX]() -
-* [XAML Styler]() -
+* [ReSharper](https://www.jetbrains.com/resharper/) - A popular Visual Studio extension for code analysis and refactoring.
+* [Avalonia for Visual Studio](https://visualstudio.marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaforVisualStudio) - Visual Studio integration for Avalonia.
+* [Captain Docker](https://marketplace.visualstudio.com/items?itemName=CodeC0ffee.CaptainDocker) - Visual Studio extension for Docker.
+* [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid) - A Visual Studio extension for code formatting and cleaning.
+* [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools) - Entity Framework Core Power Tools.
+* [Git Extensions](https://gitextensions.github.io/) - A Git client for Visual Studio.
+* [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - An AI-powered code assistant.
+* [HeatWave](https://marketplace.visualstudio.com/items?itemName=Jirawan.boot-hmr) - A Hot Module Replacement (HMR) extension for Visual Studio.
+* [ML.NET Model Builder](https://marketplace.visualstudio.com/items?itemName=MLNET.MLNETModelBuilder) - A Visual Studio extension for creating machine learning models with ML.NET.
+* [PowerShell Tools](https://marketplace.visualstudio.com/items?itemName=AdamRDriscoll.PowerShellTools) - A set of tools for PowerShell development in Visual Studio.
+* [PostSharp](https://www.postsharp.net/) - A Visual Studio extension for aspect-oriented programming.
+* [rust-analyzer](https://rust-analyzer.github.io/) - A Rust language server for Visual Studio Code.
+* [SQLite and SQL Server Compact Toolbox](https://erikej.github.io/SqlCeToolbox/) - Visual Studio extension for managing SQLite and SQL Server Compact databases.
+* [VisualSVN](https://www.visualsvn.com/) - Visual Studio integration for Subversion (SVN).
+* [WiX Toolset](https://wixtoolset.org/) - Visual Studio extension for creating Windows Installer packages.
+* [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler) - A tool for formatting XAML code in Visual Studio.
 
 #### Visual Studio Code Extensions
-* [WSL]() -
-* [C#]() -
-* [Dart]() -
-* [PyLance]() -
-* [creates]() -
-* [GitHub Copilot]() -
-* [GitLens]() -
-* [Go Nightly]() -
-* [JavaScript and TypeScript Nightly]() -
-* [Python]() -
-* [rust-analyzer]() -
-* [Avalonia for VSCode]() -
-* [C/C++]() -
-* [Django]() -
-* [Docker]() -
-* [Docker Explorer]() -
-* [ED Extension Pack: Adobe ExtendScript]() -
-* [EmmyLua]() -
-* [Go]() -
-* [Go Doc]() -
-* [IntelliCode]() -
-* [Lua]() -
-* [Luea Debug]() -
-* [Path Intellisense]() -
-* [PowerShell]() -
-* [PowerShell Extension Pack]() -
-* [Prettier]() -
-* [Python Extension Pack]() -
-* [ResX Editor]() -
-* [rust]() -
-* [SVN]() -
-* [XML Formatter]() -
-* [YAML]() -
-  
+* [WSL](https://code.visualstudio.com/docs/wsl) - Windows Subsystem for Linux integration for Visual Studio Code.
+* [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - C# extension for Visual Studio Code.
+* [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart and Flutter support for Visual Studio Code.
+* [PyLance](https://marketplace.visualstudio.com/items?itemName=ms-python.pyright) - A Visual Studio Code extension for Python development.
+* [creates](https://marketplace.visualstudio.com/items?itemName=cevek.gh-pages) - A GitHub Pages generator for Visual Studio Code.
+* [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - An AI-powered code assistant.
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - A Git supercharged extension for Visual Studio Code.
+* [Go Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.GoNightly) - A nightly version of the Go extension for Visual Studio Code.
+* [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - A nightly version of the JavaScript and TypeScript extensions for Visual Studio Code.
+* [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python extension for Visual Studio Code.
+* [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) - A Rust language server for Visual Studio Code.
+* [Avalonia for VSCode](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaforVisualStudioCode) - VSCode integration for Avalonia.
+* [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ extension for Visual Studio Code.
+* [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) - Django support for Visual Studio Code.
+* [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Docker extension for Visual Studio Code.
+* [Docker Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer) - Docker explorer for Visual Studio Code.
+* [ED Extension Pack: Adobe ExtendScript](https://marketplace.visualstudio.com/items?itemName=flibitijibibo.adobe-extendscript) - Adobe ExtendScript support for Visual Studio Code.
+* [EmmyLua](https://marketplace.visualstudio.com/items?itemName=EmmyLua.emmylua) - Lua IDE/Debugger for Visual Studio Code.
+* [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Go extension for Visual Studio Code.
+* [Go Doc](https://marketplace.visualstudio.com/items?itemName=zhaohu.godoc) - A Go documentation browser for Visual Studio Code.
+* [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted code completion for Visual Studio Code.
+* [Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) - Lua language server for Visual Studio Code.
+* [Lua Debug](https://marketplace.visualstudio.com/items?itemName=actboy168.lua-debug) - A Lua debugger for Visual Studio Code.
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Path autocompletion for Visual Studio Code.
+* [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) - PowerShell extension for Visual Studio Code.
+* [PowerShell Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell-ScriptAnalyzer) - A collection of extensions for PowerShell development in Visual Studio Code.
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter extension for Visual Studio Code.
+* [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack) - A collection of Python extensions for Visual Studio Code.
+* [ResX Editor](https://marketplace.visualstudio.com/items?itemName=tom-englert.resx) - ResX file editor for Visual Studio Code.
+* [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Rust language support for Visual Studio Code.
+* [SVN](https://marketplace.visualstudio.com/items?itemName=jgclark.svn) - Subversion (SVN) support for Visual Studio Code.
+* [XML Formatter](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-xml-format) - XML formatter for Visual Studio Code.
+* [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML support for Visual Studio Code.
+
 #### Social
-* [Discord]() -
-* [Teams]() -
-* [Slack]() -
-* [Zoom]() -
+* [Discord](https://discord.com/) - A popular communication platform for communities.
+* [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) - Collaboration software for teams.
+* [Slack](https://slack.com/) - A messaging platform for teams.
+* [Zoom](https://zoom.us/) - A video conferencing and communication platform.
 
 #### Tools
+* [7-Zip](https://www.7-zip.org/) - An open-source file archiver.
+* [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat.html) - PDF editing and creation software.
+* [Adobe Acrobat Reader](https://get.adobe.com/reader/) - A PDF reader.
 * [CMake](https://cmake.org/) - An open-source, cross-platform build system.
 * [CodeTrack](https://www.getcodetrack.com/) - A tool for tracking code changes.
 * [CopyQ](https://hluk.github.io/CopyQ/) - A clipboard manager with advanced features.
 * [Directory Opus](https://www.gpsoft.com.au/) - A file manager for Windows.
 * [Ditto](https://ditto-cp.sourceforge.io/) - A clipboard manager for Windows.
-* [dnGrep](https://dngrep.github.io/) - A search tool to find text in files.
-* [Greenfish Icon Editor](http://greenfishsoftware.org/gfie.php#apage) - A free icon, cursor, and animation editor.
+* [dotMemory](https://www.jetbrains.com/dotmemory/) - A memory profiler for .NET applications.
+* [dotPeek](https://www.jetbrains.com/decompiler/) - A .NET decompiler.
+* [dotTrace](https://www.jetbrains.com/profiler/) - A performance profiler for .NET applications.
+* [eXtreme Directory](https://github.com/PrimeEagle/PowerShell-eXtreme-Directory/releases/) - PowerShell scripts to make working with directories in a console easier and more efficient.
+* [FileZilla](https://filezilla-project.org/) - An FTP client.
+* [Grammarly](https://www.grammarly.com/) - A grammar and spell checker.
+* [Jupyter Notebook](https://jupyter.org/) - An open-source web application for creating and sharing documents.
 * [jq](https://github.com/gmmorris/jg) - A command-line JSON processor.
-* [NimbleSET](https://nimbletext.com/set/about) - A text manipulation tool.
+* [LockHunter](https://lockhunter.com/) - A tool to delete, move, or rename files and folders that are locked by other processes.
+* [Mullvad VPN](https://mullvad.net/en/) - A privacy-focused VPN service.
+* [NVM](https://github.com/nvm-sh/nvm) - Node Version Manager for managing Node.js versions.
+* [OpenVPN](https://openvpn.net/) - An open-source VPN protocol.
+* [Postman](https://www.postman.com/) - A collaboration platform for API development.
 * [Q-Dir](http://www.q-dir.com/) - A multi-pane file explorer for Windows.
+* [Remote Desktop](https://support.microsoft.com/en-us/windows/use-remote-desktop-on-your-windows-android-or-ios-device-94a9f111-24f1-255a-2571-1893b7a907e2) - A feature for remote access to Windows computers.
 * [rg](https://github.com/BurntSushi/ripgrep) - A command-line search tool.
 * [ShareX](https://getsharex.com/) - A screen capture and file sharing tool.
+* [Spotify](https://www.spotify.com/) - A music streaming service.
 * [Stardock Fences](https://www.stardock.com/products/fences/) - A tool to organize desktop icons.
-* [WizTree](https://diskanalyzer.com/) - A disk space analyzer for Windows.
-* [Rufus](https://rufus.ie/en/) - Tool for making bootable USB images from ISO files.
-* [Grammarly]() -
-* [Spotify]() -
-* [Mullvad VPN]() -
-* [OpenVPN]() -
-* [7-Zip]() -
-* [TeamViewer]() -
-* [VLC Media Player]() -
-* [TeraCopy]() -
-* [Remote Desktop]() -
-* [dotMemory]() -
-* [dotPeek]() -
-* [dotTrace]() -
-* [NVM]() -
-* [Adobe Acrobat Reader]() -
-* [Adobe Acrobat]() -
-* [FileZilla]() -
-* [LockHunter]() -
-* [Jupyter Notebook]() -
-* [eXtreme Directory](https://github.com/PrimeEagle/PowerShell-eXtreme-Directory/releases/) - PowerShell scripts to make working with directories in a console easier and more efficient.
+* [TeamViewer](https://www.teamviewer.com/) - A remote desktop and online collaboration software.
+* [TeraCopy](https://www.codesector.com/teracopy) - A file copy utility with resume and pause functions.
+* [VLC Media Player](https://www.videolan.org/vlc/) - A multimedia player.
+* [Wireshark](https://www.wireshark.org/) - A network protocol analyzer.
