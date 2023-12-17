@@ -202,6 +202,7 @@ A list of tools for developers.
 * [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools) - Entity Framework Core Power Tools.
 * [Git Extensions](https://gitextensions.github.io/) - A Git client for Visual Studio.
 * [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - An AI-powered code assistant.
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Enhances Git tools through deep integration with your editor.
 * [HeatWave](https://marketplace.visualstudio.com/items?itemName=Jirawan.boot-hmr) - A Hot Module Replacement (HMR) extension for Visual Studio.
 * [ML.NET Model Builder](https://marketplace.visualstudio.com/items?itemName=MLNET.MLNETModelBuilder) - A Visual Studio extension for creating machine learning models with ML.NET.
 * [PowerShell Tools](https://marketplace.visualstudio.com/items?itemName=AdamRDriscoll.PowerShellTools) - A set of tools for PowerShell development in Visual Studio.
