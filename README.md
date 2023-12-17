@@ -101,7 +101,6 @@ A list of tools for developers.
 * [VSCodium](https://vscodium.com/) - A community-driven, free version of Visual Studio Code.
 * [WebStorm](https://www.jetbrains.com/webstorm/) - An Integrated Development Environment for web development.
 * [Writerside](https://www.jetbrains.com/writerside/) - An Integrated Development Environment for Writerside programming language.
-* [MPS](https://www.jetbrains.com/mps/) - A language workbench for domain-specific languages.
 
 #### Package Managers
 * [cargo](https://github.com/rust-lang/cargo) - The package manager for Rust.
@@ -157,48 +156,46 @@ A list of tools for developers.
 * [Npcap](https://nmap.org/npcap/) - A packet capture library for Windows.
 
 #### Frameworks
-* [Node.js](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 * [Angular](https://angular.io/) - A TypeScript-based open-source web application framework.
-* [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
-* [Vue.js](https://vuejs.org/) - A progressive JavaScript framework for building web interfaces.
+* [ANTLR](https://www.antlr.org/) - A powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 * [Avalonia](https://avaloniaui.net/) - A cross-platform XAML-based UI framework.
-* [Express.js](https://expressjs.com/) - A web application framework for Node.js.
-* [jQuery](https://jquery.com/) - A fast, small, and feature-rich JavaScript library.
-* [WiX](https://wixtoolset.org/) - A set of tools for building Windows Installer packages.
-* [Flutter](https://flutter.dev/) - Google's UI toolkit for building natively compiled applications.
-* [Electron](https://www.electronjs.org/) - A framework for building cross-platform desktop apps.
+* [Blender](https://www.blender.org/) - An open-source 3D computer graphics software.
 * [Django](https://www.djangoproject.com/) - A high-level Python web framework.
+* [Electron](https://www.electronjs.org/) - A framework for building cross-platform desktop apps.
+* [Express.js](https://expressjs.com/) - A web application framework for Node.js.
 * [Fiber](https://gofiber.io/) - A fast HTTP web framework for Go.
+* [Flutter](https://flutter.dev/) - Google's UI toolkit for building natively compiled applications.
+* [Godot](https://godotengine.org/) - An open-source game engine for creating 2D and 3D games.
+* [jQuery](https://jquery.com/) - A fast, small, and feature-rich JavaScript library.
 * [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - An open-source machine learning framework for .NET.
 * [.NET](https://dotnet.microsoft.com/) - A free, open-source, and cross-platform framework for building modern cloud applications.
-* [Moq](https://github.com/Moq/moq4) - A mocking library for .NET.
+* [Node.js](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [Ninject](https://www.ninject.org/) - A lightweight dependency injection framework for .NET.
 * [NUnit](https://nunit.org/) - A unit-testing framework for .NET.
 * [NumPy](https://numpy.org/) - A fundamental package for scientific computing with Python.
-* [TensorFlow](https://www.tensorflow.org/) - An open-source machine learning framework.
-* [Ninject](https://www.ninject.org/) - A lightweight dependency injection framework for .NET.
-* [ANTLR](https://www.antlr.org/) - A powerful parser generator for reading, processing, executing, or translating structured text or binary files.
-* [PyQt](https://riverbankcomputing.com/software/pyqt/) - A set of Python bindings for Qt libraries.
-* [Tkinter](https://docs.python.org/3/library/tkinter.html) - The standard Python interface to the Tk GUI toolkit.
 * [ProjectQ](https://projectq.ch/) - An open-source software framework for quantum computing.
+* [PyQt](https://riverbankcomputing.com/software/pyqt/) - A set of Python bindings for Qt libraries.
+* [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
+* [TensorFlow](https://www.tensorflow.org/) - An open-source machine learning framework.
+* [Tkinter](https://docs.python.org/3/library/tkinter.html) - The standard Python interface to the Tk GUI toolkit.
 * [Unity](https://unity.com/) - A cross-platform game engine developed by Unity Technologies.
 * [Unreal Engine](https://www.unrealengine.com/) - A powerful game engine developed by Epic Games.
-* [Godot](https://godotengine.org/) - An open-source game engine for creating 2D and 3D games.
+* [Vue.js](https://vuejs.org/) - A progressive JavaScript framework for building web interfaces.
+* [WiX](https://wixtoolset.org/) - A set of tools for building Windows Installer packages.
 
 #### Design
-* [Balsamiq Wireframes](https://balsamiq.com/wireframes/) - A wireframing tool to create low-fidelity sketches.
-* [Pencil](https://pencil.evolus.vn/) - A prototyping and diagramming tool.
-* [Blender](https://www.blender.org/) - An open-source 3D computer graphics software.
+* [Adobe AfterEffects](https://www.adobe.com/products/aftereffects.html) - A visual effects and motion graphics software.
+* [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - A vector graphics editor.
+* [Adobe InDesign](https://www.adobe.com/products/indesign.html) - A desktop publishing software.
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - A popular image editing software.
 * [Adobe Premiere](https://www.adobe.com/products/premiere.html) - A video editing software.
-* [Adobe AfterEffects](https://www.adobe.com/products/aftereffects.html) - A visual effects and motion graphics software.
-* [Adobe InDesign](https://www.adobe.com/products/indesign.html) - A desktop publishing software.
-* [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - A vector graphics editor.
-* [VEGAS Pro](https://www.vegascreativesoftware.com/) - A professional video editing software.
+* [Balsamiq Wireframes](https://balsamiq.com/wireframes/) - A wireframing tool to create low-fidelity sketches.
 * [GIMP](https://www.gimp.org/) - A free and open-source raster graphics editor.
 * [OBS Studio](https://obsproject.com/) - An open-source software for live streaming and recording.
+* [Pencil](https://pencil.evolus.vn/) - A prototyping and diagramming tool.
+* [VEGAS Pro](https://www.vegascreativesoftware.com/) - A professional video editing software.
 
 #### Visual Studio Extensions
-* [ReSharper](https://www.jetbrains.com/resharper/) - A popular Visual Studio extension for code analysis and refactoring.
 * [Avalonia for Visual Studio](https://visualstudio.marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaforVisualStudio) - Visual Studio integration for Avalonia.
 * [Captain Docker](https://marketplace.visualstudio.com/items?itemName=CodeC0ffee.CaptainDocker) - Visual Studio extension for Docker.
 * [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid) - A Visual Studio extension for code formatting and cleaning.
@@ -209,6 +206,7 @@ A list of tools for developers.
 * [ML.NET Model Builder](https://marketplace.visualstudio.com/items?itemName=MLNET.MLNETModelBuilder) - A Visual Studio extension for creating machine learning models with ML.NET.
 * [PowerShell Tools](https://marketplace.visualstudio.com/items?itemName=AdamRDriscoll.PowerShellTools) - A set of tools for PowerShell development in Visual Studio.
 * [PostSharp](https://www.postsharp.net/) - A Visual Studio extension for aspect-oriented programming.
+* [ReSharper](https://www.jetbrains.com/resharper/) - A popular Visual Studio extension for code analysis and refactoring.
 * [rust-analyzer](https://rust-analyzer.github.io/) - A Rust language server for Visual Studio Code.
 * [SQLite and SQL Server Compact Toolbox](https://erikej.github.io/SqlCeToolbox/) - Visual Studio extension for managing SQLite and SQL Server Compact databases.
 * [VisualSVN](https://www.visualsvn.com/) - Visual Studio integration for Subversion (SVN).
@@ -216,33 +214,29 @@ A list of tools for developers.
 * [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler) - A tool for formatting XAML code in Visual Studio.
 
 #### Visual Studio Code Extensions
-* [WSL](https://code.visualstudio.com/docs/wsl) - Windows Subsystem for Linux integration for Visual Studio Code.
-* [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - C# extension for Visual Studio Code.
-* [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart and Flutter support for Visual Studio Code.
-* [PyLance](https://marketplace.visualstudio.com/items?itemName=ms-python.pyright) - A Visual Studio Code extension for Python development.
-* [creates](https://marketplace.visualstudio.com/items?itemName=cevek.gh-pages) - A GitHub Pages generator for Visual Studio Code.
-* [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - An AI-powered code assistant.
-* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - A Git supercharged extension for Visual Studio Code.
-* [Go Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.GoNightly) - A nightly version of the Go extension for Visual Studio Code.
-* [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - A nightly version of the JavaScript and TypeScript extensions for Visual Studio Code.
-* [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python extension for Visual Studio Code.
-* [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) - A Rust language server for Visual Studio Code.
 * [Avalonia for VSCode](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaforVisualStudioCode) - VSCode integration for Avalonia.
+* [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) - C# extension for Visual Studio Code.
 * [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ extension for Visual Studio Code.
+* [creates](https://marketplace.visualstudio.com/items?itemName=cevek.gh-pages) - A GitHub Pages generator for Visual Studio Code.
+* [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart and Flutter support for Visual Studio Code.
 * [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) - Django support for Visual Studio Code.
 * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Docker extension for Visual Studio Code.
 * [Docker Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer) - Docker explorer for Visual Studio Code.
 * [ED Extension Pack: Adobe ExtendScript](https://marketplace.visualstudio.com/items?itemName=flibitijibibo.adobe-extendscript) - Adobe ExtendScript support for Visual Studio Code.
 * [EmmyLua](https://marketplace.visualstudio.com/items?itemName=EmmyLua.emmylua) - Lua IDE/Debugger for Visual Studio Code.
+* [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - An AI-powered code assistant.
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - A Git supercharged extension for Visual Studio Code.
 * [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Go extension for Visual Studio Code.
 * [Go Doc](https://marketplace.visualstudio.com/items?itemName=zhaohu.godoc) - A Go documentation browser for Visual Studio Code.
 * [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted code completion for Visual Studio Code.
+* [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - A nightly version of the JavaScript and TypeScript extensions for Visual Studio Code.
 * [Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) - Lua language server for Visual Studio Code.
 * [Lua Debug](https://marketplace.visualstudio.com/items?itemName=actboy168.lua-debug) - A Lua debugger for Visual Studio Code.
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Path autocompletion for Visual Studio Code.
 * [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) - PowerShell extension for Visual Studio Code.
 * [PowerShell Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell-ScriptAnalyzer) - A collection of extensions for PowerShell development in Visual Studio Code.
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter extension for Visual Studio Code.
+* [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python extension for Visual Studio Code.
 * [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack) - A collection of Python extensions for Visual Studio Code.
 * [ResX Editor](https://marketplace.visualstudio.com/items?itemName=tom-englert.resx) - ResX file editor for Visual Studio Code.
 * [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Rust language support for Visual Studio Code.
