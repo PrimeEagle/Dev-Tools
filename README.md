@@ -278,8 +278,56 @@ A list of tools for developers.
 * [rg](https://github.com/BurntSushi/ripgrep) - A command-line search tool.
 * [ShareX](https://getsharex.com/) - A screen capture and file sharing tool.
 * [Spotify](https://www.spotify.com/) - A music streaming service.
+* [SQL Shades]([![SQL Shades](https://img.shields.io/badge/SQL_Shades-purple)](https://))
 * [Stardock Fences](https://www.stardock.com/products/fences/) - A tool to organize desktop icons.
 * [TeamViewer](https://www.teamviewer.com/) - A remote desktop and online collaboration software.
 * [TeraCopy](https://www.codesector.com/teracopy) - A file copy utility with resume and pause functions.
 * [VLC Media Player](https://www.videolan.org/vlc/) - A multimedia player.
 * [Wireshark](https://www.wireshark.org/) - A network protocol analyzer.
+
+#### AI Websites
+* [![Phind](https://img.shields.io/badge/Phind-red)]([https://](https://www.phind.com/)https://www.phind.com/)
+ChatGPT
+
+#### Collaboration Websites
+Confluence
+Quip
+
+#### Defect Tracking Websites
+MantisBT
+Jira
+OneClick
+
+#### Project Management Websites
+Trello
+
+#### Build Server Websites
+Jenkins
+CruiseControl.NET
+GitHub
+
+#### Source Control Websites
+GitHub
+
+
+Regex101
+Excalidraw
+Obsidian
+Notion
+Better Comments
+To Do Tree
+Antora
+Todoist
+Fish shell
+Ray cast
+Workspaces
+Stage Manager
+Rectangle
+Tuple
+Monday.com
+OneDrive
+Dropbox
+Google Drive
+Camunda
+Joplin
+Fancy Zones
