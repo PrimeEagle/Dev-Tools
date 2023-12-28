@@ -189,10 +189,17 @@ A list of tools for developers.
 * [Adobe InDesign](https://www.adobe.com/products/indesign.html) - A desktop publishing software.
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - A popular image editing software.
 * [Adobe Premiere](https://www.adobe.com/products/premiere.html) - A video editing software.
+* [Aseprite]()
 * [Balsamiq Wireframes](https://balsamiq.com/wireframes/) - A wireframing tool to create low-fidelity sketches.
+* [Fluid FX]()
 * [GIMP](https://www.gimp.org/) - A free and open-source raster graphics editor.
+* [MindText 2]()
 * [OBS Studio](https://obsproject.com/) - An open-source software for live streaming and recording.
 * [Pencil](https://pencil.evolus.vn/) - A prototyping and diagramming tool.
+* [PixelOver]()
+* [Pixelpart]()
+* [Shadron]()
+* [SpriteMancer]()
 * [VEGAS Pro](https://www.vegascreativesoftware.com/) - A professional video editing software.
 
 #### Visual Studio Extensions
