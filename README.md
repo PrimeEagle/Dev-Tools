@@ -38,6 +38,7 @@ A list of tools for developers.
 * [npm](https://nodejs.org/en/download/) - The package manager for Node.js.
 * [nvm](https://nodejs.org/en/download/) - Node version manager.
 * [pip](https://pypi.org/project/pip/) - The package manager for Python.
+* [scoop](https://scoop.sh/) - A general package manager for Windows.
 * [winget](https://github.com/microsoft/winget-cli) - A command-line package manager for Windows.
 * [yarn](https://yarnpkg.com/) - A package manager for JavaScript.
   
