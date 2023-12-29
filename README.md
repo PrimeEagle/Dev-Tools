@@ -35,8 +35,8 @@ A list of tools for developers.
 * [chocolatey](https://community.chocolatey.org/) - A package manager for Windows.
 * [go](https://go.dev/) - The package manager for Go.
 * [gow](https://github.com/bmatzelle/gow) - A lightweight alternative to Cygwin on Windows.
-* [npm](https://www.npmjs.com/) - The package manager for Node.js.
-* [nvm](https://github.com/coreybutler/nvm-windows) - Node version manager.
+* [npm](https://nodejs.org/en/download/) - The package manager for Node.js.
+* [nvm](https://nodejs.org/en/download/) - Node version manager.
 * [pip](https://pypi.org/project/pip/) - The package manager for Python.
 * [winget](https://github.com/microsoft/winget-cli) - A command-line package manager for Windows.
 * [yarn](https://yarnpkg.com/) - A package manager for JavaScript.
