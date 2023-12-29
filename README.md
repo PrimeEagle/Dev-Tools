@@ -31,7 +31,7 @@ A list of tools for developers.
 * [Vivaldi](https://vivaldi.com/) - A highly customizable web browser.
 
 #### Package Managers
-* [cargo](https://github.com/rust-lang/cargo) - The package manager for Rust.
+* [cargo](https://www.rust-lang.org/tools/install) - The package manager for Rust.
 * [chocolatey](https://community.chocolatey.org/) - A package manager for Windows.
 * [go](https://go.dev/) - The package manager for Go.
 * [gow](https://github.com/bmatzelle/gow) - A lightweight alternative to Cygwin on Windows.
