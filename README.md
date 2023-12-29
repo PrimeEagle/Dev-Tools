@@ -30,6 +30,17 @@ A list of tools for developers.
 * [Tor](https://www.torproject.org/download/) - A privacy-focused web browser.
 * [Vivaldi](https://vivaldi.com/) - A highly customizable web browser.
 
+#### Package Managers
+* [cargo](https://github.com/rust-lang/cargo) - The package manager for Rust.
+* [chocolatey](https://community.chocolatey.org/) - A package manager for Windows.
+* [go](https://go.dev/) - The package manager for Go.
+* [gow](https://github.com/bmatzelle/gow) - A lightweight alternative to Cygwin on Windows.
+* [npm](https://www.npmjs.com/) - The package manager for Node.js.
+* [nvm](https://github.com/coreybutler/nvm-windows) - Node version manager.
+* [pip](https://pypi.org/project/pip/) - The package manager for Python.
+* [winget](https://github.com/microsoft/winget-cli) - A command-line package manager for Windows.
+* [yarn](https://yarnpkg.com/) - A package manager for JavaScript.
+  
 #### Languages and Runtimes
 * [.NET Runtime](https://dotnet.microsoft.com/en-us/download) (C#, F#, VB.NET) - .NET runtime environment for C#, F#, and VB.NET.
 * [.NET SDK](https://dotnet.microsoft.com/en-us/download) (C#, F#, VB.NET) - .NET Software Development Kit for C#, F#, and VB.NET.
@@ -101,16 +112,6 @@ A list of tools for developers.
 * [VSCodium](https://vscodium.com/) - A community-driven, free version of Visual Studio Code.
 * [WebStorm](https://www.jetbrains.com/webstorm/) - An Integrated Development Environment for web development.
 * [Writerside](https://www.jetbrains.com/writerside/) - An Integrated Development Environment for Writerside programming language.
-
-#### Package Managers
-* [cargo](https://github.com/rust-lang/cargo) - The package manager for Rust.
-* [chocolatey](https://community.chocolatey.org/) - A package manager for Windows.
-* [go](https://go.dev/) - The package manager for Go.
-* [gow](https://github.com/bmatzelle/gow) - A lightweight alternative to Cygwin on Windows.
-* [npm](https://www.npmjs.com/) - The package manager for Node.js.
-* [pip](https://pypi.org/project/pip/) - The package manager for Python.
-* [winget](https://github.com/microsoft/winget-cli) - A command-line package manager for Windows.
-* [yarn](https://yarnpkg.com/) - A package manager for JavaScript.
 
 #### Terminals
 * [Clink](https://chrisant996.github.io/clink/) - An enhanced bash-compatible command-line shell.
